@@ -10,7 +10,7 @@ public class TokenBucketService {
     private final int capacity;
     private final int refillTokens;
     private final long refillInterval;
-    private AtomicInteger tokens;
+    private final AtomicInteger tokens;
     private long lastRefillTimestamp;
 
     public TokenBucketService(
