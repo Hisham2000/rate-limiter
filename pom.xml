@@ -12,19 +12,31 @@
     <artifactId>rate-limiter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>rate limiter</name>
-    <description>rate limiter</description>
+    <description>This system support you in limit reaching for you APIs</description>
     <url/>
     <licenses>
-        <license/>
+        <license>
+            <name>The MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+            <distribution>repo</distribution>
+        </license>
     </licenses>
     <developers>
-        <developer/>
+        <developer>
+            <id>hisham-anwar</id>
+            <name>Hisham Anwar</name>
+            <email>hishamanwar72@gmail.com</email>
+            <roles>
+                <role>Developer</role>
+            </roles>
+            <timezone>GMT+0</timezone>
+        </developer>
     </developers>
     <scm>
-        <connection/>
-        <developerConnection/>
-        <tag/>
-        <url/>
+        <connection>scm:git:git://github.com/Hisham2000/rate-limiter.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:Hisham2000/rate-limiter.git</developerConnection>
+        <tag>HEAD</tag>
+        <url>https://github.com/Hisham2000/rate-limiter</url>
     </scm>
     <properties>
         <java.version>17</java.version>
