@@ -1,8 +1,4 @@
-# Rate Limiter ![Rate Limiter Icon](https://img.icons8.com/ios-filled/50/000000/rate-limiting.png)
-![GitHub](https://img.shields.io/github/license/Hisham2000/rate-limiter) ![Maven](https://img.shields.io/badge/Maven-3.6.3-blue) ![Java](https://img.shields.io/badge/Java-17-orange)
-
-# Rate Limiter ![Rate Limiter Icon](https://img.icons8.com/ios-filled/50/000000/rate-limiting.png)
-
+# Rate Limiter
 ![GitHub](https://img.shields.io/github/license/Hisham2000/rate-limiter) ![Maven](https://img.shields.io/badge/Maven-3.6.3-blue) ![Java](https://img.shields.io/badge/Java-17-orange)
 
 ## Description 📜
